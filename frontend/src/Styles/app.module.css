@@ -1,0 +1,10 @@
+
+.Main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: #b8b8b8;
+    background-image: url('../Assets/image.png');
+    background-size: 100%;
+}
